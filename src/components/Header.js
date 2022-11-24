@@ -29,16 +29,17 @@ function Header() {
       <EllipsisVerticalIcon className='h-6 cursor-pointer'/>
       <ViewfinderCircleIcon className='h-6 cursor-pointer'/>
 
-     <Image 
+    
+  <h3 className='text-[12px] text-gray-400'>Nahom </h3>
+  <Image 
      src="https://yt3.ggpht.com/i4-Gj-EG0gxvgRjxD5SUxHuTZ8Ogknxw7YfXJ-hCPDPALP5lrTTO7wDEXIeRkik-LIV_DOBI=s900-c-k-c0x00ffffff-no-rj"
      alt=""
-     width={0}
-     height={10}
+     width={20}
+     height={3}
      objectFit="contain"
-     className='cursor-pointer'
+     className='cursor-pointer rounded-full '
      
      /> 
-     <h3>Nahom jc</h3>
     </div>
     </div>
   )
