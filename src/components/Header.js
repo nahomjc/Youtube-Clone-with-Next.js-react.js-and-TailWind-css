@@ -28,6 +28,7 @@ function Header() {
     <div className='flex justify-between w-32'>
       <EllipsisVerticalIcon className='h-6 cursor-pointer'/>
       <ViewfinderCircleIcon className='h-6 cursor-pointer'/>
+
      <Image 
      src={"https://yt3.ggpht.com/i4-Gj-EG0gxvgRjxD5SUxHuTZ8Ogknxw7YfXJ-hCPDPALP5lrTTO7wDEXIeRkik-LIV_DOBI=s900-c-k-c0x00ffffff-no-rj"}
      alt=""
@@ -37,6 +38,7 @@ function Header() {
      className='cursor-pointer'
      
      /> 
+     <h3>Nahom jc</h3>
     </div>
     </div>
   )
