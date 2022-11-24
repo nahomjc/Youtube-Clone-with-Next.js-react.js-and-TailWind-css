@@ -30,7 +30,7 @@ function Header() {
       <ViewfinderCircleIcon className='h-6 cursor-pointer'/>
 
      <Image 
-     src={"https://yt3.ggpht.com/i4-Gj-EG0gxvgRjxD5SUxHuTZ8Ogknxw7YfXJ-hCPDPALP5lrTTO7wDEXIeRkik-LIV_DOBI=s900-c-k-c0x00ffffff-no-rj"}
+     src="https://yt3.ggpht.com/i4-Gj-EG0gxvgRjxD5SUxHuTZ8Ogknxw7YfXJ-hCPDPALP5lrTTO7wDEXIeRkik-LIV_DOBI=s900-c-k-c0x00ffffff-no-rj"
      alt=""
      width={0}
      height={10}
